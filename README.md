@@ -9,7 +9,7 @@ mission statement was to
 >
 > Develop a classification engine that learns to automatically annotate pages, provide visual tools for inspection of results.
 
-For People who wanted to tag Web pages, there was a Firefox AddOn for tagging data. The annotation guidelines and the Add-on manual [are still available](/manual).
+For people who wanted to tag Web pages, there was a Firefox AddOn for tagging data. The annotation guidelines and the Add-on manual [are still available](/manual).
 
 ## Cite Work
 
