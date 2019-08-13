@@ -11,7 +11,7 @@ overview can be found in the paper and an extensive description in the master's 
 ## Remnants
 
 1. The **annotation guidelines** and the **Firefox add-on manual** are still
-available [online](/manual) and as [pdf
+available [online](https://krdwrd.github.io/manual) and as [pdf
 file](https://github.com/krdwrd/manual/releases/download/20100831/manual.pdf).
 
 2. The **CANOLA Corpus**
