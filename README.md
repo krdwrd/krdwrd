@@ -1,6 +1,3 @@
----
-title: KrdWrd Project Homepage
----
 # KrdWrd
 
 The KrdWrd Project is finished. It had its peak between 2008 and 2010.  The
@@ -14,7 +11,7 @@ For people who wanted to tag Web pages, there was a Firefox AddOn for tagging da
 ## Cite Work
 
 ### WAC5 paper
-{% raw  %}
+<!-- {% raw %} -->
 ```
 @INPROCEEDINGS{StegerStemle2009,
   author = {Steger, Johannes M. and Stemle, Egon W.},
@@ -23,8 +20,8 @@ For people who wanted to tag Web pages, there was a Firefox AddOn for tagging da
   crossref = {WAC5},
 }
 ```
-{% endraw  %}
-{% raw  %}
+<!-- {% endraw  %} -->
+<!-- {% raw %} -->
 ```
 @PROCEEDINGS{WAC5,
   title = {Proceedings of the Fifth Web as Corpus Workshop},
@@ -40,10 +37,10 @@ For people who wanted to tag Web pages, there was a Firefox AddOn for tagging da
   url = {http://www.sigwac.org.uk/attachment/wiki/WAC5/WAC5_proceedings.pdf}
 }
 ```
-{% endraw  %}
+<!-- {% endraw  %} -->
 
 ### Manual
-{% raw  %}
+<!-- {% raw %} -->
 ```
 @MANUAL{krdwrd.org/manual,
   title = {Add-on Manual},
@@ -52,10 +49,10 @@ For people who wanted to tag Web pages, there was a Firefox AddOn for tagging da
   url = {https://krdwrd.org/manual/manual.pdf}
 }
 ```
-{% endraw  %}
+<!-- {% endraw  %} -->
 
 ### Web Page
-{% raw  %}
+<!-- {% raw %} -->
 ```
 @WEBPAGE{krdwrd.org,
   title = {The {K}rd{W}rd Project Web Site},
@@ -65,4 +62,4 @@ For people who wanted to tag Web pages, there was a Firefox AddOn for tagging da
   key = {{@KRDWRD}}
 }
 ```
-{% endraw  %}
+<!-- {% endraw  %} -->
