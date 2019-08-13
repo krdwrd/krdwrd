@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 
-readme_index:
-  enabled:          true
-  remove_originals: false
-  with_frontmatter: false
+title: The KrdWrd Project
+description: Archived Web site
