@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 
 title: The KrdWrd Project
 description: Archived Web site
+
+exclude:
+  - bin/
+  - Dockerfile
+  - docker-compose.yml

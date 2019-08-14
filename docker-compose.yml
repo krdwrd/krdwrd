@@ -1,0 +1,19 @@
+version: '3.4'
+
+x-custom:
+  service: &service
+    build: .
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+    working_dir: /srv/jekyll
+    user: "${COMPOSE_USER:-1000:1000}"
+  service_env: &service_env
+    HOME: /srv/jekyll
+
+services:
+  jekyll:
+    <<: *service
+    environment:
+      <<: *service_env

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+OUR_PATH="$(readlink -f $(dirname $0))"
+OUR_COMMAND="$(basename $0)"
+
+export COMPOSE_USER="$(id -u):$(id -g)"
+docker-compose -f "${OUR_PATH}/../docker-compose.yml" --project-directory "$(pwd)" run --rm --name jekyll --service-ports jekyll "${OUR_COMMAND}" "$@"
