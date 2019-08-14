@@ -17,8 +17,8 @@ file](https://github.com/krdwrd/manual/releases/download/20100831/manual.pdf).
 
 2. The **CANOLA Corpus**
 
-3. The [original Wiki](https://github.com/krdwrd/krdwrd.github.io/wiki), which
-   holds more information on many topics
+3. A [snapshot](https://github.com/krdwrd/krdwrd.github.io/wiki) of the original Wiki, which
+   holds more information on many topics (originally accessible at `https://krdwrd.org/trac/wiki`)
 
 ## System Components
 
