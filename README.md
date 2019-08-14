@@ -6,7 +6,8 @@ The KrdWrd Project ran from 2008 to 2011. The mission statement was
 > Develop a classification engine that learns to automatically annotate pages, and provide visual tools for inspection of results.
 
 Basically, it was an infrastructure for research into web page cleaning. A good
-overview can be found in the paper and an extensive description in the master's thesis (both, see [further down](#cite-work)).
+overview can be found in the paper and an extensive description in the master's
+thesis (both, see [further down](#cite-work)).
 
 ## Remnants
 
@@ -16,6 +17,8 @@ file](https://github.com/krdwrd/manual/releases/download/20100831/manual.pdf).
 
 2. The **CANOLA Corpus**
 
+3. The [original Wiki](https://github.com/krdwrd/krdwrd.github.io/wiki), which
+   holds more information on many topics
 
 ## System Components
 
