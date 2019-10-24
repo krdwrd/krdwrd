@@ -12,7 +12,7 @@ thesis (both, see [further down](#cite-work)).
 ## Remnants
 
 1. The **annotation guidelines** and the **Firefox add-on manual** are still
-available [online](https://krdwrd.github.io/manual) and as [pdf
+available [online](https://krdwrd.org/doc_manual) and as [pdf
 file](https://github.com/krdwrd/manual/releases/download/20100831/manual.pdf).
 
 2. The **CANOLA Corpus**
